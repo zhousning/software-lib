@@ -1,0 +1,8 @@
+﻿安装vim
+
+根目錄下直接替换就可以
+_vim 对应.vim文件夹,包含vim经常用到的插件
+_vimrc 对应.vimrc
+
+screenrc
+拷贝_screenrc到根目录，改名.screenrc

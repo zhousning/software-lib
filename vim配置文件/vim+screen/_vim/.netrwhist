@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/zhouning/proj/demo2/app/views'
+let g:netrw_dirhist_2='/home/zhouning/proj/demo2/app/views/welcome'
+let g:netrw_dirhist_3='/home/zhouning/proj/demo2/public'
+let g:netrw_dirhist_4='/home/zhouning/proj/demo2/public/rm index.index'
